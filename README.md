@@ -31,7 +31,3 @@ Dentro desse repositório, colocarei meu estudo sobre Java dentro da formação 
 - [ ] Java: aplicando a Orientação a Objetos
 - [ ] Java: trabalhando com listas e coleções de dados
 - [ ] Java: consumindo API, gravando arquivos e lidando com erros
-
-<br>
-
-[⬆ Voltar ao topo](#nome_do_repo)<br>
