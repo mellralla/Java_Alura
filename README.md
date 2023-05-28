@@ -28,6 +28,6 @@ Dentro desse repositório, colocarei meu estudo sobre Java dentro da formação 
 ## Cursos
 
 - [x] Java: criando a sua primeira aplicação
-- [ ] Java: aplicando a Orientação a Objetos
+- [x] Java: aplicando a Orientação a Objetos
 - [ ] Java: trabalhando com listas e coleções de dados
 - [ ] Java: consumindo API, gravando arquivos e lidando com 
