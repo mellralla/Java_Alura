@@ -25,20 +25,9 @@ Tecnologias usadas dentro do projeto:
 Dentro desse repositório, colocarei meu estudo sobre Java dentro da formação Alura [Aprenda Java com Orientação a Objetos](https://cursos.alura.com.br/formacao-java). 
 <br>
 
-## Cursos, desafios e divisões
+## Cursos
 
-###Cursos principais
-
-- [x] **Java: criando a sua primeira aplicação**
-- Código do projeto foi colocado dentro da [pasta 01](Java_Alura/01_criando_a_sua_primeira_aplicacao)
-- [x] **Java: aplicando a Orientação a Objetos**
-- Código do projeto foi colocado dentro da [pasta 02](Java_Alura/02_aplicando_orientacao_a_objetos)
-- [ ] **Java: trabalhando com listas e coleções de dados**
-- Código do projeto foi trabalhado dentro da [pasta 02](Java_Alura/02_aplicando_orientacao_a_objetos)
-- [ ] **Java: consumindo API, gravando arquivos e lidando com erros**
-  
-###Desafios
-- **Desafio 01**
-  - [Movimentação bancária](Java_Alura\desafio_01_movimentacao_bancaria)
-- **Desafio 02**
-  - [Cadastro de músicas e podcast](Java_Alura/desafio_02_cadastro_musica_podcast_java)
+- [x] Java: criando a sua primeira aplicação
+- [x] Java: aplicando a Orientação a Objetos
+- [ ] Java: trabalhando com listas e coleções de dados
+- [ ] Java: consumindo API, gravando arquivos e lidando com 
