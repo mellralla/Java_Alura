@@ -34,7 +34,7 @@ Dentro desse repositório, colocarei meu estudo sobre Java dentro da formação 
 - [x] **Java: aplicando a Orientação a Objetos**
 - Código do projeto foi colocado dentro da [pasta 02](02_aplicando_orientacao_a_objetos/ScreenMatch)
 - [ ] **Java: trabalhando com listas e coleções de dados**
-- Código do projeto foi trabalhado dentro da [pasta 02](Java_Alura/02_aplicando_orientacao_a_objetos)
+- Código do projeto foi trabalhado dentro da [pasta 02](02_aplicando_orientacao_a_objetos/ScreenMatch)
 - [ ] **Java: consumindo API, gravando arquivos e lidando com erros**
   
 ### Desafios
